@@ -4,7 +4,7 @@
 // Tags: mix_design, resume, portfolio, personal page, cv, template, one page, responsive, html5, css3, creative, clean
 // Version: 1.0.0
 // Build Date: feb 2025
-// Last Update: March 2025
+// Last Update: feb 2025
 // 
 // Author URI: https://themeforest.net/user/mix_design
 // File name: app.js
